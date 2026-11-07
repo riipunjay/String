@@ -7,9 +7,13 @@ public class Basic001 {
 //		a = "Kumar";
 //		System.out.println(a);
 		
+		float a = 284.2947f;
+		System.out.printf("Number is : %.2f", a);
 		//Compare == vs .compares
+		System.out.println();
 		String name = "Ripunjay";
 		String naam = "Ripunjay";
+		System.out.println(name.charAt(5));
 		
 		System.out.println(name == naam);
 		
