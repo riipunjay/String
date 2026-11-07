@@ -12,6 +12,6 @@ public class Basic003 {
 		System.out.println(name.length());//Gives you length of the String
 		System.out.println(name.toUpperCase());//Changes every letter to uppercase
 		System.out.println(name.toLowerCase());//Changes every letter to lower case
-		System.out.println(name.indexOf(4));
+		System.out.println(name.indexOf(4));//Prints what is available at index 4
 	}
 }
